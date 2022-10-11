@@ -1,0 +1,1 @@
+g++ -g -o MovieRentalStore -Wall -Wextra MovieRentalStore.cpp Movie.cpp Customer.cpp
